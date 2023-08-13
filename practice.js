@@ -203,3 +203,4 @@ const prompt=require("prompt-sync");
 
 let input =  prompt("   enter the number of items")
 console.log(input)
+console.log("hello world ")
